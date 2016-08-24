@@ -1,5 +1,5 @@
 <?php
-public class FiguraGeometrica
+class FiguraGeometrica
 {
 	protected $color;
 	protected $perimetro;
@@ -19,6 +19,6 @@ public class FiguraGeometrica
 
 	function setColor()
 	{
-		
+
 	}
 } ?>
